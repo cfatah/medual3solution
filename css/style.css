@@ -1,0 +1,44 @@
+h1{text-align: center;
+color: white;}
+section{
+margin: 50px;
+background-color: gray;
+
+color: blue;
+font-size: 18px;
+
+}
+
+
+
+.navbar{
+
+  background-color: gray;
+  padding-bottom: 50px;
+border: 25px;
+font-size: 30px;
+color: blue;
+
+
+
+}
+
+#nav{
+color: white;
+text-align: center;
+border: 20px;
+float: right
+margin: 5px;
+
+}
+p{
+
+  margin-left: 40px;
+}
+
+body{
+ background-color:black;
+}
+
+
+h2{text-align: center;}
